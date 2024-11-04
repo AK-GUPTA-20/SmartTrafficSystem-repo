@@ -30,6 +30,5 @@ The main class, `SmartTrafficManagementSystem`, initializes and starts the traff
 │   ├── TrafficController.java
 │   └── SmartTrafficManagementSystem.java
 ├── README.md
-├── LICENSE
 ├── .gitignore
 └── pom.xml   
