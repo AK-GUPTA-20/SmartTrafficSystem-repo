@@ -1,0 +1,15 @@
+#Compile and Run:
+
+javac src/*.java
+java src/SmartTrafficManagementSystem
+
+# output
+
+Every 10 seconds, the console will display the status of each traffic light as it changes.
+After 30 seconds, the system will stop, and a message "Traffic management system stopped." will appear.
+
+
+# Customization
+
+Change Light Duration: Update the interval in TrafficController.start() from 10,000 milliseconds (10 seconds) to
+a different value for longer or shorter light cycles.
